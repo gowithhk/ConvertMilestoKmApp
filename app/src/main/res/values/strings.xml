@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertMilesToKm</string>
+    <string name="miles">Miles</string>
+    <string name="name1">Name</string>
+    <string name="km">Km</string>
+    <string name="name2">Name</string>
+</resources>
